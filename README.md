@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="Aliha Ali - Applied ML portfolio" width="100%" />
+  <img src="./assets/aliha-ml-banner.jpg" alt="Aliha Ali - Applied ML portfolio" width="100%" />
 </p>
 
 <table>
@@ -28,9 +28,14 @@ production ML systems
 </td>
 <td width="28%" align="center">
 
-<img src="https://avatars.githubusercontent.com/u/98427200?v=4" width="190" style="border-radius:50%" alt="Aliha Ali" />
+### Currently building
 
-<br/><br/>
+`computer vision`  
+`ML evaluation`  
+`LLM systems`  
+`production ML`
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aliha_Ali-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliha-ali-b769a626a)
 
