@@ -9,20 +9,29 @@ I like working on problems where model quality and software quality matter at th
 - 🧠 Applied ML and deep learning
 - 🔬 Semi-supervised learning and computer vision research
 - ⚙️ ML pipelines, evaluation, and reproducible experimentation
-- 🤖 LLM-powered tools and AI-assisted workflows
+- 🤖 LLM evaluation and AI-assisted workflows
 - 🧩 Backend systems and APIs that support ML products
 
 ## Tech I use
 
 **ML / AI:** Python, PyTorch, TensorFlow, Keras, MONAI, scikit-learn, pandas, NumPy  
-**ML Systems:** data preprocessing, feature engineering, model evaluation, experiment tracking, HPC  
+**ML Systems:** data preprocessing, feature engineering, model evaluation, reproducible experimentation, HPC  
 **Software:** Java, Spring Boot, FastAPI, Flask, SQL, JavaScript, TypeScript, REST APIs  
 **Infrastructure:** Docker, Kubernetes, Linux, GitHub Actions, AWS, GCP, Azure
 
-## Featured work
+## Featured projects
 
 ### [Deepfake Compression Robustness Study](https://github.com/aliha123/deepfake-compression-thesis)
-A reproducible ML research codebase for studying how image compression affects deepfake-detection workflows. The repository includes dataset utilities, compression experiments, evaluation metrics, tests, and CI.
+Research-oriented ML tooling for measuring how lossy image compression affects deepfake-detection workflows. Includes compression transforms, evaluation metrics, tests, a CLI, and CI.
+
+### [Student Retention ML](./projects/student-retention-ml)
+End-to-end tabular ML pipeline with synthetic data generation, mixed-feature preprocessing, a class-weighted Random Forest, probability-based evaluation, and tests.
+
+### [Vision Robustness Lab](./projects/vision-robustness-lab)
+Computer-vision utilities for deterministic blur, noise, brightness, cropping, and perturbation-distance measurements.
+
+### [LLM Evaluation Toolkit](./projects/llm-evaluation-toolkit)
+Deterministic evaluation utilities for generated text, including exact match, token F1, keyword coverage, response-length statistics, and unsupported-number checks.
 
 ## Research interests
 
